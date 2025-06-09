@@ -6,7 +6,7 @@
 - 내용 입력
 ![Image](https://github.com/user-attachments/assets/f770904d-59a3-4ab7-aecb-8a93096299ae)
 - 빈칸 일때 alert으로 경고
-  
+![Image](https://github.com/user-attachments/assets/02c9fa92-4e9c-4b12-b056-1671965c2d6d)
 ### 1.2 상세 내용 작성
 - 마감일 선택 (금일 이전 선택 불가)
 - 우선순위 설정 (높음,보통,낮음)
@@ -26,7 +26,6 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
-![Image](https://github.com/user-attachments/assets/02c9fa92-4e9c-4b12-b056-1671965c2d6d)
 ![Image](https://github.com/user-attachments/assets/ad6da638-2a53-44dc-bc10-199feb64f774)
 ![Image](https://github.com/user-attachments/assets/feb4fe43-3a58-4ef5-a295-192291471f37)
 ![Image](https://github.com/user-attachments/assets/38afbd85-b31f-4942-abb7-f66cddb24339)
