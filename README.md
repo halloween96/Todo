@@ -1,12 +1,24 @@
-# React + Vite
+# Todo 리스트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 구동 방법
 
-Currently, two official plugins are available:
+### 1.1 Todo 입력
+- 내용 입력
+- 빈칸 일때 alert으로 경고
+  
+### 1.2 상세 내용 작성
+- 마감일 선택 (금일 이전 선택 불가)
+- 우선순위 설정 (높음,보통,낮음)
+- 일정 상세내용 작성
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 1.3 일정 등록 완료
 
-## Expanding the ESLint configuration
+### 2.1 일정 리스트 검색
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2.2 정렬
+- 중요도순으로 정렬(토글)
+- 마감일순으로 정렬(토글)
+
+### 3.1 내용 수정,삭제
+- 수정 버튼 클릭 내용 수정
+- 삭제 버튼 클릭 해당 리스트 삭제
