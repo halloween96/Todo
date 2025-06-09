@@ -30,9 +30,8 @@
 
 ### 3.1 내용 수정,삭제
 - 수정 버튼 클릭 내용 수정
+- ![Image](https://github.com/user-attachments/assets/1f029806-2b9e-49c4-9a57-6774ab16f826)
 - 삭제 버튼 클릭 해당 리스트 삭제
-
-
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
 
-![Image](https://github.com/user-attachments/assets/1f029806-2b9e-49c4-9a57-6774ab16f826)
+
