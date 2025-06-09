@@ -20,10 +20,8 @@
 
 
 ### 2.1 일정 리스트 검색
-<img src="https://github.com/user-attachments/assets/9a7e39d8-52f2-4743-adf2-71d5389ae1df" width="540">
-<img src="https://github.com/user-attachments/assets/165f05ce-2c3b-42f9-ad6d-e9ff67a60a99" width="540">
-![Image](https://github.com/user-attachments/assets/9a7e39d8-52f2-4743-adf2-71d5389ae1df)
-![Image](https://github.com/user-attachments/assets/165f05ce-2c3b-42f9-ad6d-e9ff67a60a99)
+<img src="https://github.com/user-attachments/assets/9a7e39d8-52f2-4743-adf2-71d5389ae1df" width="500">
+<img src="https://github.com/user-attachments/assets/165f05ce-2c3b-42f9-ad6d-e9ff67a60a99" width="500">
 
 ### 2.2 정렬
 - 중요도순으로 정렬(토글)
