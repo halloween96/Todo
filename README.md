@@ -11,6 +11,7 @@
 - 마감일 선택 (금일 이전 선택 불가)
 ![Image](https://github.com/user-attachments/assets/ad6da638-2a53-44dc-bc10-199feb64f774)
 - 우선순위 설정 (높음,보통,낮음)
+![Image](https://github.com/user-attachments/assets/feb4fe43-3a58-4ef5-a295-192291471f37)
 - 일정 상세내용 작성
 
 ### 1.3 일정 등록 완료
@@ -27,7 +28,6 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
-![Image](https://github.com/user-attachments/assets/feb4fe43-3a58-4ef5-a295-192291471f37)
 ![Image](https://github.com/user-attachments/assets/38afbd85-b31f-4942-abb7-f66cddb24339)
 ![Image](https://github.com/user-attachments/assets/165f05ce-2c3b-42f9-ad6d-e9ff67a60a99)
 ![Image](https://github.com/user-attachments/assets/1a8e43d6-2a5b-4ddb-80cc-0c2770645cd4)
