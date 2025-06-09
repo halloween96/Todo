@@ -26,6 +26,7 @@
 ### 2.2 정렬
 - 중요도/마감일 순으로 정렬(토글)
 ![Image](https://github.com/user-attachments/assets/efd46cc6-6b62-4842-8dfe-418d990407cf)
+![Image](https://github.com/user-attachments/assets/1a8e43d6-2a5b-4ddb-80cc-0c2770645cd4)
 
 ### 3.1 내용 수정,삭제
 - 수정 버튼 클릭 내용 수정
@@ -33,5 +34,5 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
-![Image](https://github.com/user-attachments/assets/1a8e43d6-2a5b-4ddb-80cc-0c2770645cd4)
+
 ![Image](https://github.com/user-attachments/assets/1f029806-2b9e-49c4-9a57-6774ab16f826)
