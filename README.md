@@ -17,7 +17,7 @@
 ### 1.3 일정 등록 완료
 ![Image](https://github.com/user-attachments/assets/38afbd85-b31f-4942-abb7-f66cddb24339)
 ### 2.1 일정 리스트 검색
-
+![Image](https://github.com/user-attachments/assets/9a7e39d8-52f2-4743-adf2-71d5389ae1df)
 ### 2.2 정렬
 - 중요도순으로 정렬(토글)
 - 마감일순으로 정렬(토글)
