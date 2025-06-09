@@ -1,5 +1,5 @@
 # Todo 리스트
-
+![Image](https://github.com/user-attachments/assets/082c23ae-469e-473a-a11e-83bcb89764d5)
 ## 구동 방법
 
 ### 1.1 Todo 입력
@@ -25,7 +25,6 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
-![Image](https://github.com/user-attachments/assets/082c23ae-469e-473a-a11e-83bcb89764d5)
 ![Image](https://github.com/user-attachments/assets/02c9fa92-4e9c-4b12-b056-1671965c2d6d)
 ![Image](https://github.com/user-attachments/assets/f770904d-59a3-4ab7-aecb-8a93096299ae)
 ![Image](https://github.com/user-attachments/assets/ad6da638-2a53-44dc-bc10-199feb64f774)
