@@ -15,7 +15,7 @@
 - 일정 상세내용 작성
 
 ### 1.3 일정 등록 완료
-
+![Image](https://github.com/user-attachments/assets/38afbd85-b31f-4942-abb7-f66cddb24339)
 ### 2.1 일정 리스트 검색
 
 ### 2.2 정렬
@@ -28,7 +28,6 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8587221d-32ca-49ba-94d2-5a2e2f07d0d0)
-![Image](https://github.com/user-attachments/assets/38afbd85-b31f-4942-abb7-f66cddb24339)
 ![Image](https://github.com/user-attachments/assets/165f05ce-2c3b-42f9-ad6d-e9ff67a60a99)
 ![Image](https://github.com/user-attachments/assets/1a8e43d6-2a5b-4ddb-80cc-0c2770645cd4)
 ![Image](https://github.com/user-attachments/assets/efd46cc6-6b62-4842-8dfe-418d990407cf)
